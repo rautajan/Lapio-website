@@ -1,21 +1,8 @@
-p  {
-  color: brown;
+body  {
+  margin: 0 auto;
+  max-width: 50em;
+  color: #555;
 }
-li  {
-  color: violet;
-}
-*  {
-  color: red;
-}
-.pääotsikko  {
-  color: blue
-}
-.alaotsikko  {
-  color: brown
-}
-strong  {
-  color: brown
-}
-i  {
-  color: brown
-}
+h1, h2, h3  {
+  color: #333;
+ }
