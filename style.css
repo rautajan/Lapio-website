@@ -1,3 +1,21 @@
-p {
-  background-color: red; 
-  }
+p  {
+  color: brown;
+}
+li  {
+  color: violet;
+}
+*  {
+  color: red;
+}
+.pääotsikko  {
+  color: blue
+}
+.alaotsikko  {
+  color: brown
+}
+strong  {
+  color: brown
+}
+i  {
+  color: brown
+}
